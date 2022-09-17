@@ -13,8 +13,14 @@ THESE ARE PREREQUISITES AND ONCE YOU HAVE DONE THIS YOU ARE GOOD TO GO
 
 SOME SAMPLES DOWN HERE:
 
-![Screenshot 2022-09-08 185832](https://user-images.githubusercontent.com/113117175/190858152-ef149753-6d2c-45a6-a093-b87259ed508c.png)
-
-![Screenshot 2022-09-08 185326](https://user-images.githubusercontent.com/113117175/190858113-dacee1e0-82c6-454d-906e-844c6e8041a9.png)
-![Screenshot 2022-09-08 190339](https://user-images.githubusercontent.com/113117175/190858170-c047ca63-3f36-43ec-8054-5a1eabffec39.png)
-![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858175-86379ffd-117f-4967-9720-4af49bffe520.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858229-f7b09a47-7676-4068-a6a7-448e17fc2c70.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858249-f571bc6c-6b0a-42e3-b024-4caf9d322c9a.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858255-465eb27b-f9a5-49e6-80e4-c9c78a09ef5f.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858264-17bb7822-8ed0-49b3-bcf5-a23987205161.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858267-759c0f34-7f2b-4d08-b1a1-2cef3b4bff0e.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858268-71fbc7f3-b82d-4d4b-b8b3-e1d0b3a789f1.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858271-9bcf942f-a51f-4daf-a900-aa5f37008aeb.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858269-99d2ceff-21df-4f9b-9ebd-c0ed3abea348.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858270-47c2f188-0520-44b2-864c-c91b9cfd4360.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858272-f11a101d-0728-4ad2-b904-2b660ad88fba.png)
+![Screenshot 2022-09-08 185635](https://user-images.githubusercontent.com/113117175/190858274-c8a46c7d-7a58-4a41-a326-27fbc199794f.png)
