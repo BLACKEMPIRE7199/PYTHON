@@ -1,6 +1,6 @@
 import mysql.connector
 from tkinter import messagebox
-con = mysql.connector.connect(host="localhost",user="root",password="Black@7199",database="python_db")
+con = mysql.connector.connect(host="localhost",user="your username",password="your pass",database="your database")
 
 
 def checker(username,password):
